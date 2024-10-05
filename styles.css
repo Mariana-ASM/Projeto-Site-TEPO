@@ -1,0 +1,37 @@
+body {
+  font-family: sans-serifs;
+}
+
+#header {
+  text-align: center;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+h1 {
+  text-decoration: solid;
+  text-align: center;
+  font-size: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+li: (not) first-child {
+  background-color: rgb(248, 176, 83);
+  color: #ffffff;
+}
+
+h5 {
+  text-decoration: none;
+  text-align: center;
+  font-size: medium;
+  font-family: "Times New Roman", Times, serif;
+}
+
+p {
+  text-align: center;
+}
+
+.list-item-big {
+  font-weight: 600;
+  font-size: 13px;
+}
